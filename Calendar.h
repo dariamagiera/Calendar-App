@@ -8,14 +8,11 @@
 #include "Day.h"
 #include <iomanip>
 
-
-
 class Calendar {
 
 private:
 
     static std::map<int, Day *> mapOfDays;
-
 
 public:
 
@@ -40,9 +37,6 @@ public:
     void printAllTheEvents();
 
     void mainMenu();
-
-
 };
 
 #endif //THELASTONE_CALENDAR_H
-
