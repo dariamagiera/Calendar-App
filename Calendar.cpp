@@ -1,7 +1,3 @@
-
-//
-// Created by Daria Magiera on 2019-06-15.
-//
 #include "Calendar.h"
 #include <map>
 #include <iomanip>
@@ -207,4 +203,3 @@ void Calendar::mainMenu() {
 }
 
 std::map<int, Day *> Calendar::mapOfDays = Calendar::init();
-
