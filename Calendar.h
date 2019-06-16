@@ -1,6 +1,3 @@
-//
-// Created by Daria Magiera on 2019-06-15.
-//
 #ifndef THELASTONE_CALENDAR_H
 #define THELASTONE_CALENDAR_H
 #include <iostream>
