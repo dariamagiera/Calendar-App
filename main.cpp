@@ -1,10 +1,3 @@
-//
-// Created by Daria Magiera on 2019-06-15.
-//
-
-//Daria Magiera
-
-//sample usage of vector, map and iterator
 #include "Calendar.h"
 #include <unistd.h>
 #include <iostream>
@@ -56,13 +49,9 @@ int main() {
             }
             default:
                 break;
-
         }
-
         a->mainMenu();
         std::cin >> option;
-
     }
-
     return 0;
 }
